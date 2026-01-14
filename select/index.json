@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "硝子色の欠片",
+  "base_artist": "ラモーナ・ウォルフ (CV.田中美海)",
+  "createdAt": "2026-01-14T08:04:41.333749Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "硝子色の欠片",
+      "artist": "ラモーナ・ウォルフ (CV.田中美海)",
+      "has_synced": false,
+      "path": "select/pl_01_硝子色の欠片_ラモーナ・ウォルフ_(CV.田中美海).txt"
+    }
+  ]
+}
